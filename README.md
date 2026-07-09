@@ -48,7 +48,7 @@ I specialize in building high-concurrency backend services, fault-tolerant datab
 ### 📊 GitHub Ecosystem Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanta4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prashanta's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanta4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prashanta Sarker's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanta4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
