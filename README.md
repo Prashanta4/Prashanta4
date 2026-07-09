@@ -18,11 +18,31 @@
 ### 🛠️ Technical Stack & Ecosystem
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,nodejs,express,cpp,postgres,mongodb,mysql,react,nextjs,ts,tailwind,docker,linux,githubactions&theme=tokyonight" alt="My Skills" />
-  </a>
+  <!-- Applied AI / Data Science -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytorch.png" alt="PyTorch" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cpp.png" alt="C++" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Backend & Core -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.png" alt="Node.js" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" alt="Express" width="50" height="50" />
+  <br/><br/>
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Frontend Engineering -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nextjs.png" alt="Next.js" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind.png" alt="Tailwind CSS" width="50" height="50" />
+  <br/><br/>
+  <!-- DevOps & Infrastructure -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github_actions.png" alt="GitHub Actions" width="50" height="50" />
 </p>
-
 ---
 
 ### 🏗️ Featured Engineering Systems
