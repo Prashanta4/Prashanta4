@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Prashanta Sarker 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+%26+Applied+AI+Engineer;High-Concurrency+Architect;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Applied+AI+%26+Systems+Engineer;Full-Stack+Web+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I specialize in building high-concurrency backend services, fault-tolerant database architectures, and production-ready Deep Learning pipelines. I focus on turning complex algorithmic problems into scalable, reliable web applications.
+  I specialize in building performant backend services, relational database architectures, and production-ready Deep Learning pipelines. I focus on turning complex algorithmic problems into scalable, reliable web applications.
 </p>
 
 <p align="center">
@@ -16,35 +16,10 @@
 
 ### 🛠️ Technical Stack & Ecosystem
 
-<p align="left">
-  <!-- Backend & Core -->
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br/>
-  <!-- Applied AI / Data Science -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <br/>
-  <!-- Databases & Caching -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br/>
-  <!-- Frontend Engineering -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <br/>
-  <!-- DevOps & Infrastructure -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,nodejs,express,cpp,postgres,mongodb,mysql,react,nextjs,ts,tailwind,docker,linux,githubactions&theme=tokyonight" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -57,9 +32,9 @@
 * Optimized binary classification accuracy for gallbladder disease detection while wrapping model execution in an asynchronous, non-blocking Express API layer to maximize request handling.
 
 #### 📦 [PharmaTrack](https://github.com/Prashanta4/PharmaTrack-main)
-* **Core:** Go (Golang) + PostgreSQL + Redis
-* Built a high-throughput pharmaceutical supply chain ledger utilizing Go's native concurrency primitives (`goroutines` and `channels`).
-* Implemented Redis distributed locks to eliminate race conditions during bulk stock tracking, guaranteeing strict transactional integrity.
+* **Core:** Node.js + PostgreSQL + Database Optimization
+* Built a structured pharmaceutical supply chain ledger with automated transaction records.
+* Optimized relational schemas and constraints to maintain strict inventory counts and eliminate race conditions during bulk stock operations.
 
 #### 🖥️ [Ordis Terminal](https://github.com/Prashanta4/Ordis-Terminal)
 * **Core:** Node.js + WebSocket + Custom IPC Protocols
@@ -91,8 +66,8 @@
 ---
 
 ### ⚡ Technical Philosophy & Core Interests
-* **Concurrency Over Hype:** Writing highly performant, predictable service architectures in Go and Node.js.
-* **Deterministic AI:** Moving machine learning models away from notebooks and into robust, productionized Docker containers with clean API abstractions.
+* **Performance & Safety:** Writing clean, non-blocking asynchronous architectures in Node.js and scalable applications with proper error handling.
+* **Deterministic AI:** Moving machine learning models away from isolated notebooks and into robust, productionized Docker containers with clean API abstractions.
 * **Data Integrity:** Designing clean relational database models with indexing optimized for complex reading and zero transactional conflicts.
 
 <p align="center">
