@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Prashanta Sarker 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Applied+AI+%26+Systems+Engineer;Full-Stack+Web+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Applied+AI+%26+Systems+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
