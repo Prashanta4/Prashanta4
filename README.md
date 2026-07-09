@@ -19,29 +19,29 @@
 
 <p align="center">
   <!-- Applied AI / Data Science -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytorch.png" alt="PyTorch" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cplusplus.png" alt="C++" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Backend & Core -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.png" alt="Node.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" alt="Express" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="background-color: white; border-radius: 4px;" />
   <br/><br/>
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Frontend Engineering -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" alt="Next.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="background-color: white; border-radius: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" />
   <br/><br/>
   <!-- DevOps & Infrastructure -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub Actions" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 4px;" />
 </p>
 ---
 
